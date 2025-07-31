@@ -18,3 +18,9 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 * GitHub: [github.com/Mxrlrey](https://github.com/Mxrlrey)
 * Email: [Mxrlrey@gmail.com](mailto:Mxrlrey@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact" />
+</div>
