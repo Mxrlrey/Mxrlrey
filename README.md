@@ -41,6 +41,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6a4fb1&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a4fb1&height=80&section=footer" />
 </div>
+
 
