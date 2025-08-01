@@ -18,14 +18,14 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-6f42c1?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9966cc?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8a63d2?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7b6bd9?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5b51c9?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-836fa9?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-764ba2?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
