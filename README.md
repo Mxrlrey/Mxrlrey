@@ -1,4 +1,3 @@
-<!-- Banner superior animado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=#a18cd1,#fbc2eb&text=Marley%20Teixeira&height=120&section=header&fontColor=ffffff&fontSize=30" />
 </div>
@@ -49,7 +48,4 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-<!-- Rodapé decorativo roxo (sem virar de cabeça para baixo) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=#a18cd1,#fbc2eb&height=100&section=footer" />
-</div>
+![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
