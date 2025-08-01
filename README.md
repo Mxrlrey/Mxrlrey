@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#a18cd1,#fbc2eb&text=Marley%20Teixeira&height=120&section=header&fontColor=ffffff&fontSize=30" />
-</div>
+![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 # 👋 Hi there, I'm Marley Teixeira | Software Developer & Student
 
