@@ -6,16 +6,16 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Studying Systems Analysis and Development at **IF Baiano**
-- 💻 Passionate about **programming, clean code**, and **problem-solving**
-- 🔍 Focused on **backend development** and **system architecture**
-- 🚀 Always learning and building **real-world inspired projects**
+- Studying Systems Analysis and Development at **IF Baiano**
+- Passionate about **programming, clean code**, and **problem-solving**
+- Focused on **backend development** and **system architecture**
+- Always learning and building **real-world inspired projects**
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,mysql,docker,linux,git&theme=light" />
@@ -23,7 +23,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact&theme=tokyonight" />
@@ -31,10 +31,10 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 💼 GitHub: [github.com/Mxrlrey](https://github.com/Mxrlrey)
-- 📧 Email: [Mxrlrey@gmail.com](mailto:Mxrlrey@gmail.com)
+- GitHub: [github.com/Mxrlrey](https://github.com/Mxrlrey)
+- Email: [Mxrlrey@gmail.com](mailto:Mxrlrey@gmail.com)
 
 ---
 
