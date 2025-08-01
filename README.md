@@ -26,7 +26,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact&theme=tokyonight" />
 </div>
 
 ![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
