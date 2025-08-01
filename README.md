@@ -1,5 +1,6 @@
-[![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://capsule-render.vercel.app/api?type=waving&color=#6a4fb1,#9b59b6&height=80&section=header
-)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a4fb1&height=80&section=header" />
+</div>
 
 # 👋 Hi there, I'm Marley Teixeira | Software Developer & Student
 
@@ -39,6 +40,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-[![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://capsule-render.vercel.app/api?type=wave&color=#6a4fb1,#9b59b6&height=80&section=footer
-)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6a4fb1&height=80&section=footer" />
+</div>
 
