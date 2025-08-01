@@ -45,4 +45,4 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Decorative GIF](https://capsule-render.vercel.app/api?type=waving&color=#a18cd1,#fbc2eb&height=100&section=footer)
