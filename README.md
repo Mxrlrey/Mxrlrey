@@ -20,7 +20,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 ## Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,python,mysql,django,docker,linux,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,python,html,css,mysql,django,docker,linux,git&theme=light" />
 </div>
 
 ---
