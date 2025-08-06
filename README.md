@@ -25,7 +25,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 - **Desenvolvimento Web:**  
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
-- **Frameworks e Bibliotecas:**  
+- **Frameworks:**  
   [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 - **Banco de Dados:**  
