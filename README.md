@@ -32,10 +32,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
-  [![My Skills](https://skillicons.dev/icons?i=docker,linux,git)](https://skillicons.dev)
-  ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visualstudiocode&logoColor=white)  
-  ![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide&logoColor=white)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?logo=intellijidea&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,vscode)](https://skillicons.dev)
 
 ---
 
