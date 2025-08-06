@@ -32,7 +32,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
-  [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,IntelliJ)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea)](https://skillicons.dev)
 
 ---
 
