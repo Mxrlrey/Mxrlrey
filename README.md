@@ -4,15 +4,15 @@
 
 # 👋 Olá, eu sou Marley Teixeira | Desenvolvedor de Software & Estudante
 
-Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por construir soluções de software práticas e eficientes. Embora ainda esteja crescendo na área, venho trabalhando ativamente em projetos pessoais e acadêmicos que refletem desafios do mundo real.
+Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Venho trabalhando ativamente em projetos pessoais e acadêmicos que refletem desafios do mundo real.
 
 ---
 
 ## Sobre Mim
 
 - Estudando Análise e Desenvolvimento de Sistemas no **IF Baiano**
-- Apaixonado por **programação, código limpo** e **resolução de problemas**
-- Focado em **desenvolvimento backend** e **arquitetura de sistemas**
+- Gosto bastante da **parte lógica** da **programação**.
+- Focado em **desenvolvimento backend**
 - Sempre aprendendo e construindo **projetos inspirados no mundo real**
 
 ---
@@ -26,13 +26,13 @@ Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**, ap
   [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 - **Frameworks:**  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=django,laravel)](https://skillicons.dev)
 
 - **Banco de Dados:**  
   [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea,pycharm.phpstorm)](https://skillicons.dev)
 
 ---
 
