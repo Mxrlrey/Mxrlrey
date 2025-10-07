@@ -2,33 +2,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6a4fb1&height=80&section=header" />
 </div>
 
-# 👋 Olá, eu sou Marley Teixeira | Desenvolvedor de Software & Estudante
+# 👋 Hi, I'm Marley Teixeira | Software Developer & Student
 
-Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Venho trabalhando ativamente em projetos pessoais e acadêmicos que refletem desafios do mundo real.
-
----
-
-## Sobre Mim
-
-- Estudando Análise e Desenvolvimento de Sistemas no **IF Baiano**
-- Gosto bastante da **parte lógica** da **programação**
-- Focado em **desenvolvimento backend**
-- Sempre aprendendo e construindo **projetos inspirados no mundo real**
+I'm Marley Teixeira, a student of **Systems Analysis and Development**. I actively work on personal and academic projects that reflect real-world challenges.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## About Me
+
+- Studying Systems Analysis and Development at **IF Baiano**
+- Strong interest in **programming logic**
+- Focused on **backend development**
+- Continuously learning and building **real-world inspired projects**
+
+---
+
+## 🛠️ Technologies & Tools
 
 - **Main Skills:**  
   [![Java](https://skillicons.dev/icons?i=java,php,laravel,docker,mysql&size=30)](https://skillicons.dev)
 
 - **Other Skills:**  
-  [![Outras Tecnologias](https://skillicons.dev/icons?i=python,js,django,postgres,linux,git&size=25)](https://skillicons.dev)
-
+  [![Other Technologies](https://skillicons.dev/icons?i=python,js,django,postgres,linux,git&size=25)](https://skillicons.dev)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact&theme=tokyonight" />
@@ -36,7 +35,7 @@ Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Ve
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - GitHub: [github.com/Mxrlrey](https://github.com/Mxrlrey)
 - Email: [Mxrlrey@gmail.com](mailto:Mxrlrey@gmail.com)
