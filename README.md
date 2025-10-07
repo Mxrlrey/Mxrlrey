@@ -29,7 +29,6 @@ Estudante de Sistemas explorando desenvolvimento de software através de projeto
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
 
 **Frameworks:**  
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)  
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)  
 
 **Banco de Dados:**  
