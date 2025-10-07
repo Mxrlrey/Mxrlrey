@@ -4,8 +4,6 @@
 
 # 👋 Olá, eu sou Marley Teixeira | Desenvolvedor de Software & Estudante
 
-Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Venho trabalhando ativamente em projetos pessoais e acadêmicos que refletem desafios do mundo real.
-
 ---
 
 ## Sobre Mim
@@ -32,7 +30,7 @@ Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Ve
   [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea,pycharm,phpstorm)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,idea,pycharm,phpstorm,vscode,eclipse)](https://skillicons.dev)
 
 ---
 
