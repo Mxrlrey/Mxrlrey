@@ -2,41 +2,41 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6a4fb1&height=80&section=header" />
 </div>
 
-# 👋 Hi there, I'm Marley Teixeira | Software Developer & Student
+# 👋 Olá, eu sou Marley Teixeira | Desenvolvedor de Software & Estudante
 
-I'm Marley Teixeira, a student of **Systems Analysis and Development** passionate about building practical and efficient software solutions. While I'm still growing in the field, I’ve been actively working on personal and academic projects that reflect real-world challenges.
-
----
-
-## About Me
-
-- Studying Systems Analysis and Development at **IF Baiano**
-- Passionate about **programming, clean code**, and **problem-solving**
-- Focused on **backend development** and **system architecture**
-- Always learning and building **real-world inspired projects**
+Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por construir soluções de software práticas e eficientes. Embora ainda esteja crescendo na área, venho trabalhando ativamente em projetos pessoais e acadêmicos que refletem desafios do mundo real.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Sobre Mim
+
+- Estudando Análise e Desenvolvimento de Sistemas no **IF Baiano**
+- Apaixonado por **programação, código limpo** e **resolução de problemas**
+- Focado em **desenvolvimento backend** e **arquitetura de sistemas**
+- Sempre aprendendo e construindo **projetos inspirados no mundo real**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens de Programação:**  
-  [![My Skills](https://skillicons.dev/icons?i=java,php,python,js)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=java,php,python,js)](https://skillicons.dev)
 
 - **Desenvolvimento Web:**  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 - **Frameworks:**  
-  [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 - **Banco de Dados:**  
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
-  [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea)](https://skillicons.dev)
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxrlrey&layout=compact&theme=tokyonight" />
@@ -44,7 +44,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 
 ---
 
-## Contact
+## Contato
 
 - GitHub: [github.com/Mxrlrey](https://github.com/Mxrlrey)
 - Email: [Mxrlrey@gmail.com](mailto:Mxrlrey@gmail.com)
@@ -54,5 +54,3 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development** passionat
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6a4fb1&height=80&section=footer" />
 </div>
-
-
