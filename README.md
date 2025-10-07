@@ -19,20 +19,12 @@ Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Ve
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens de Programação:**  
-  [![Java](https://skillicons.dev/icons?i=java,php,python,js&size=40)](https://skillicons.dev)
+- **Main Skills:**  
+  [![Java](https://skillicons.dev/icons?i=java,php,laravel,docker,mysql&size=40)](https://skillicons.dev)
 
-- **Desenvolvimento Web:**  
-  [![Web](https://skillicons.dev/icons?i=html,css,javascript&size=40)](https://skillicons.dev)
+- **Other Skills:**  
+  [![Outras Tecnologias](https://skillicons.dev/icons?i=python,js,html,css,django,postgres,linux,git,vscode&size=30)](https://skillicons.dev)
 
-- **Frameworks:**  
-  [![Frameworks](https://skillicons.dev/icons?i=django,laravel&size=40)](https://skillicons.dev)
-
-- **Banco de Dados:**  
-  [![DB](https://skillicons.dev/icons?i=mysql,postgres&size=40)](https://skillicons.dev)
-
-- **Ferramentas e Tecnologias:**  
-  [![Tools](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea,pycharm,phpstorm&size=40)](https://skillicons.dev)
 
 ---
 
