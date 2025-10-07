@@ -32,7 +32,7 @@ Sou Marley Teixeira, estudante de **Análise e Desenvolvimento de Sistemas**. Ve
   [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 - **Ferramentas e Tecnologias:**  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea,pycharm.phpstorm)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=docker,linux,git,vscode,eclipse,idea,pycharm,phpstorm)](https://skillicons.dev)
 
 ---
 
