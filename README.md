@@ -19,11 +19,17 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development**. I active
 
 ## 🛠️ Technologies & Tools
 
-- **Main Skills:**  
-  [![Java](https://skillicons.dev/icons?i=java,php,laravel,docker,mysql&size=30)](https://skillicons.dev)
+- **Main Languages:**  
+  [![Main Languages](https://skillicons.dev/icons?i=java,php&size=30)](https://skillicons.dev)
 
-- **Other Skills:**  
-  [![Other Technologies](https://skillicons.dev/icons?i=python,js,django,postgres,linux,git&size=25)](https://skillicons.dev)
+- **Other Languages:**  
+  [![Other Languages](https://skillicons.dev/icons?i=python,js&size=25)](https://skillicons.dev)
+
+- **Main Tools:**  
+  [![Main Tools](https://skillicons.dev/icons?i=laravel,docker,mysql&size=30)](https://skillicons.dev)
+
+- **Other Tools:**  
+  [![Other Tools](https://skillicons.dev/icons?i=django,postgres,linux,git&size=25)](https://skillicons.dev)
 
 ---
 
