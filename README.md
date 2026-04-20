@@ -20,7 +20,7 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development**. I active
 ## 🛠️ Technologies & Tools
 
 - **Main Languages:**  
-  [![Main Languages](https://skillicons.dev/icons?i=java,php&size=30)](https://skillicons.dev)
+  [![Main Languages](https://skillicons.dev/icons?i=php,java&size=30)](https://skillicons.dev)
 
 - **Main Tools:**  
   [![Main Tools](https://skillicons.dev/icons?i=laravel,docker,mysql&size=30)](https://skillicons.dev)
