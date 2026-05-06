@@ -19,17 +19,11 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development**. I active
 
 ## 🛠️ Technologies & Tools
 
-- **Main Languages:**  
-  [![Main Languages](https://skillicons.dev/icons?i=php,java&size=30)](https://skillicons.dev)
-
-- **Main Tools:**  
-  [![Main Tools](https://skillicons.dev/icons?i=laravel,docker,mysql&size=30)](https://skillicons.dev)
-
-- **Other Languages:**  
-  [![Other Languages](https://skillicons.dev/icons?i=python,js&size=25)](https://skillicons.dev)
-
-- **Other Tools:**  
-  [![Other Tools](https://skillicons.dev/icons?i=django,postgres,linux,git&size=25)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,python,js,laravel,docker,mysql,django,postgres,linux,git" />
+  </a>
+</div>
 
 ---
 
@@ -43,8 +37,20 @@ I'm Marley Teixeira, a student of **Systems Analysis and Development**. I active
 
 ## 📫 Contact
 
-- GitHub: [github.com/Mxrlrey](https://github.com/Mxrlrey)
-- Email: [Mxrlrey@gmail.com](mailto:Mxrlrey@gmail.com)
+<div align="center">
+  <a href="mailto:mxrlrey@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mxrlrey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marley-teixeira-bb4758382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mxrlrey/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
